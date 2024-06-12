@@ -7,11 +7,3 @@ body {
 h1 {
     background-color: rgb(255, 0, 0);
 }
-.cabeçalho__menu-hamburguer {
-    width: 30px;
-    height: 30px;
-    display: inline-block;
-    background-image: url("joi0.avif");
-    background-repeat: no-repeat;
-    background-position: center;
-}
