@@ -8,8 +8,8 @@ h1 {
     background-color: rgb(255, 0, 0);
 }
 .cabeçalho__menu-hamburguer {
-    width: 24px;
-    height: 24px;
+    width: 30px;
+    height: 30px;
     display: inline-block;
     background-image: url("joi0.avif");
     background-repeat: no-repeat;
